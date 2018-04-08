@@ -1,3 +1,3 @@
 # hello-world
 hello,
-I'm a biginner.
+I'm a beginner.
